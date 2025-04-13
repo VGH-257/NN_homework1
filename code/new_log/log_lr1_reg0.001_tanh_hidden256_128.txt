@@ -1,0 +1,32 @@
+[INFO] Training with hyperparameters: {'lr': 1.0, 'reg': 0.001, 'epochs': 30, 'batch_size': 128, 'hidden': [256, 128], 'activation': 'tanh', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr1_reg0.001_tanh_hidden256_128.npz', 'log_path': 'new_log/log_lr1_reg0.001_tanh_hidden256_128.txt'}
+Epoch 1: val_acc = 0.3500, val_loss = 1.9033
+Epoch 2: val_acc = 0.3469, val_loss = 1.9094
+Epoch 3: val_acc = 0.3365, val_loss = 1.9302
+Epoch 4: val_acc = 0.3219, val_loss = 1.9434
+Epoch 5: val_acc = 0.3135, val_loss = 1.9535
+Epoch 6: val_acc = 0.3057, val_loss = 1.9606
+Epoch 7: val_acc = 0.3012, val_loss = 1.9648
+Epoch 8: val_acc = 0.2938, val_loss = 1.9673
+Epoch 9: val_acc = 0.2914, val_loss = 1.9692
+Epoch 10: val_acc = 0.2898, val_loss = 1.9705
+Epoch 11: val_acc = 0.2877, val_loss = 1.9712
+Epoch 12: val_acc = 0.2867, val_loss = 1.9721
+Epoch 13: val_acc = 0.2832, val_loss = 1.9716
+Epoch 14: val_acc = 0.2830, val_loss = 1.9726
+Epoch 15: val_acc = 0.2812, val_loss = 1.9728
+Epoch 16: val_acc = 0.2805, val_loss = 1.9736
+Epoch 17: val_acc = 0.2783, val_loss = 1.9742
+Epoch 18: val_acc = 0.2770, val_loss = 1.9740
+Epoch 19: val_acc = 0.2773, val_loss = 1.9748
+Epoch 20: val_acc = 0.2764, val_loss = 1.9755
+Epoch 21: val_acc = 0.2768, val_loss = 1.9760
+Epoch 22: val_acc = 0.2756, val_loss = 1.9762
+Epoch 23: val_acc = 0.2746, val_loss = 1.9765
+Epoch 24: val_acc = 0.2734, val_loss = 1.9769
+Epoch 25: val_acc = 0.2740, val_loss = 1.9770
+Epoch 26: val_acc = 0.2730, val_loss = 1.9771
+Epoch 27: val_acc = 0.2721, val_loss = 1.9773
+Epoch 28: val_acc = 0.2713, val_loss = 1.9773
+Epoch 29: val_acc = 0.2705, val_loss = 1.9778
+Epoch 30: val_acc = 0.2695, val_loss = 1.9776
+Test Accuracy: 0.2943

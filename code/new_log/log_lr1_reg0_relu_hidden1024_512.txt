@@ -1,0 +1,33 @@
+[INFO] Training with hyperparameters: {'lr': 1.0, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [1024, 512], 'activation': 'relu', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr1_reg0_relu_hidden1024_512.npz', 'log_path': 'new_log/log_lr1_reg0_relu_hidden1024_512.txt'}
+[INFO] Training with hyperparameters: {'lr': 1.0, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [1024, 512], 'activation': 'relu', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr1_reg0_relu_hidden1024_512.npz', 'log_path': 'new_log/log_lr1_reg0_relu_hidden1024_512.txt'}
+Epoch 1: val_acc = 0.3955, val_loss = 1.7360
+Epoch 2: val_acc = 0.4357, val_loss = 1.6371
+Epoch 3: val_acc = 0.4498, val_loss = 1.5849
+Epoch 4: val_acc = 0.4613, val_loss = 1.5540
+Epoch 5: val_acc = 0.4682, val_loss = 1.5293
+Epoch 6: val_acc = 0.4811, val_loss = 1.5023
+Epoch 7: val_acc = 0.4795, val_loss = 1.4854
+Epoch 8: val_acc = 0.4781, val_loss = 1.5005
+Epoch 9: val_acc = 0.4977, val_loss = 1.4613
+Epoch 10: val_acc = 0.5025, val_loss = 1.4436
+Epoch 11: val_acc = 0.5039, val_loss = 1.4309
+Epoch 12: val_acc = 0.5061, val_loss = 1.4260
+Epoch 13: val_acc = 0.5078, val_loss = 1.4214
+Epoch 14: val_acc = 0.5115, val_loss = 1.4239
+Epoch 15: val_acc = 0.5127, val_loss = 1.4117
+Epoch 16: val_acc = 0.5117, val_loss = 1.4104
+Epoch 17: val_acc = 0.5182, val_loss = 1.4114
+Epoch 18: val_acc = 0.5109, val_loss = 1.4033
+Epoch 19: val_acc = 0.5184, val_loss = 1.3991
+Epoch 20: val_acc = 0.5182, val_loss = 1.3954
+Epoch 21: val_acc = 0.5156, val_loss = 1.3922
+Epoch 22: val_acc = 0.5221, val_loss = 1.3891
+Epoch 23: val_acc = 0.5217, val_loss = 1.3917
+Epoch 24: val_acc = 0.5232, val_loss = 1.3876
+Epoch 25: val_acc = 0.5197, val_loss = 1.3857
+Epoch 26: val_acc = 0.5273, val_loss = 1.3829
+Epoch 27: val_acc = 0.5260, val_loss = 1.3808
+Epoch 28: val_acc = 0.5230, val_loss = 1.3830
+Epoch 29: val_acc = 0.5279, val_loss = 1.3806
+Epoch 30: val_acc = 0.5240, val_loss = 1.3787
+Test Accuracy: 0.5227

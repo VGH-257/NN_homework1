@@ -1,0 +1,32 @@
+[INFO] Training with hyperparameters: {'lr': 0.1, 'reg': 0.001, 'epochs': 30, 'batch_size': 128, 'hidden': [128, 64], 'activation': 'sigmoid', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.1_reg0.001_sigmoid_hidden128_64.npz', 'log_path': 'new_log/log_lr0.1_reg0.001_sigmoid_hidden128_64.txt'}
+Epoch 1: val_acc = 0.0914, val_loss = 2.3411
+Epoch 2: val_acc = 0.0914, val_loss = 2.3090
+Epoch 3: val_acc = 0.0953, val_loss = 2.2979
+Epoch 4: val_acc = 0.1219, val_loss = 2.2932
+Epoch 5: val_acc = 0.1396, val_loss = 2.2910
+Epoch 6: val_acc = 0.1684, val_loss = 2.2899
+Epoch 7: val_acc = 0.1979, val_loss = 2.2893
+Epoch 8: val_acc = 0.2057, val_loss = 2.2891
+Epoch 9: val_acc = 0.2186, val_loss = 2.2890
+Epoch 10: val_acc = 0.2141, val_loss = 2.2891
+Epoch 11: val_acc = 0.2135, val_loss = 2.2892
+Epoch 12: val_acc = 0.2133, val_loss = 2.2894
+Epoch 13: val_acc = 0.2145, val_loss = 2.2895
+Epoch 14: val_acc = 0.2156, val_loss = 2.2897
+Epoch 15: val_acc = 0.2121, val_loss = 2.2899
+Epoch 16: val_acc = 0.2139, val_loss = 2.2901
+Epoch 17: val_acc = 0.2137, val_loss = 2.2903
+Epoch 18: val_acc = 0.2143, val_loss = 2.2905
+Epoch 19: val_acc = 0.2172, val_loss = 2.2907
+Epoch 20: val_acc = 0.2166, val_loss = 2.2909
+Epoch 21: val_acc = 0.2174, val_loss = 2.2911
+Epoch 22: val_acc = 0.2176, val_loss = 2.2912
+Epoch 23: val_acc = 0.2174, val_loss = 2.2913
+Epoch 24: val_acc = 0.2174, val_loss = 2.2914
+Epoch 25: val_acc = 0.2166, val_loss = 2.2915
+Epoch 26: val_acc = 0.2176, val_loss = 2.2917
+Epoch 27: val_acc = 0.2188, val_loss = 2.2918
+Epoch 28: val_acc = 0.2178, val_loss = 2.2919
+Epoch 29: val_acc = 0.2174, val_loss = 2.2920
+Epoch 30: val_acc = 0.2180, val_loss = 2.2922
+Test Accuracy: 0.1932
