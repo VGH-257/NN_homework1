@@ -1,0 +1,33 @@
+[INFO] Training with hyperparameters: {'lr': 0.001, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [128, 64], 'activation': 'relu', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.001_reg0_relu_hidden128_64.npz', 'log_path': 'new_log/log_lr0.001_reg0_relu_hidden128_64.txt'}
+[INFO] Training with hyperparameters: {'lr': 0.001, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [128, 64], 'activation': 'relu', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.001_reg0_relu_hidden128_64.npz', 'log_path': 'new_log/log_lr0.001_reg0_relu_hidden128_64.txt'}
+Epoch 1: val_acc = 0.0916, val_loss = 2.5970
+Epoch 2: val_acc = 0.0924, val_loss = 2.5797
+Epoch 3: val_acc = 0.0934, val_loss = 2.5638
+Epoch 4: val_acc = 0.0941, val_loss = 2.5489
+Epoch 5: val_acc = 0.0943, val_loss = 2.5351
+Epoch 6: val_acc = 0.0951, val_loss = 2.5222
+Epoch 7: val_acc = 0.0949, val_loss = 2.5102
+Epoch 8: val_acc = 0.0951, val_loss = 2.4989
+Epoch 9: val_acc = 0.0959, val_loss = 2.4882
+Epoch 10: val_acc = 0.0959, val_loss = 2.4781
+Epoch 11: val_acc = 0.0963, val_loss = 2.4732
+Epoch 12: val_acc = 0.0967, val_loss = 2.4685
+Epoch 13: val_acc = 0.0971, val_loss = 2.4639
+Epoch 14: val_acc = 0.0971, val_loss = 2.4594
+Epoch 15: val_acc = 0.0971, val_loss = 2.4550
+Epoch 16: val_acc = 0.0975, val_loss = 2.4508
+Epoch 17: val_acc = 0.0982, val_loss = 2.4466
+Epoch 18: val_acc = 0.0988, val_loss = 2.4425
+Epoch 19: val_acc = 0.0988, val_loss = 2.4385
+Epoch 20: val_acc = 0.0994, val_loss = 2.4346
+Epoch 21: val_acc = 0.0994, val_loss = 2.4327
+Epoch 22: val_acc = 0.0998, val_loss = 2.4308
+Epoch 23: val_acc = 0.1000, val_loss = 2.4289
+Epoch 24: val_acc = 0.1000, val_loss = 2.4271
+Epoch 25: val_acc = 0.1002, val_loss = 2.4252
+Epoch 26: val_acc = 0.1004, val_loss = 2.4234
+Epoch 27: val_acc = 0.1006, val_loss = 2.4216
+Epoch 28: val_acc = 0.1008, val_loss = 2.4198
+Epoch 29: val_acc = 0.1016, val_loss = 2.4181
+Epoch 30: val_acc = 0.1016, val_loss = 2.4163
+Test Accuracy: 0.1044

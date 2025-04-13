@@ -1,0 +1,33 @@
+[INFO] Training with hyperparameters: {'lr': 0.001, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [512, 256], 'activation': 'relu', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.001_reg0_relu_hidden512_256.npz', 'log_path': 'new_log/log_lr0.001_reg0_relu_hidden512_256.txt'}
+[INFO] Training with hyperparameters: {'lr': 0.001, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [512, 256], 'activation': 'relu', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.001_reg0_relu_hidden512_256.npz', 'log_path': 'new_log/log_lr0.001_reg0_relu_hidden512_256.txt'}
+Epoch 1: val_acc = 0.1010, val_loss = 2.5373
+Epoch 2: val_acc = 0.1023, val_loss = 2.5212
+Epoch 3: val_acc = 0.1029, val_loss = 2.5060
+Epoch 4: val_acc = 0.1053, val_loss = 2.4918
+Epoch 5: val_acc = 0.1084, val_loss = 2.4783
+Epoch 6: val_acc = 0.1086, val_loss = 2.4655
+Epoch 7: val_acc = 0.1113, val_loss = 2.4535
+Epoch 8: val_acc = 0.1152, val_loss = 2.4421
+Epoch 9: val_acc = 0.1199, val_loss = 2.4312
+Epoch 10: val_acc = 0.1219, val_loss = 2.4209
+Epoch 11: val_acc = 0.1225, val_loss = 2.4160
+Epoch 12: val_acc = 0.1229, val_loss = 2.4111
+Epoch 13: val_acc = 0.1234, val_loss = 2.4064
+Epoch 14: val_acc = 0.1250, val_loss = 2.4018
+Epoch 15: val_acc = 0.1260, val_loss = 2.3973
+Epoch 16: val_acc = 0.1271, val_loss = 2.3929
+Epoch 17: val_acc = 0.1295, val_loss = 2.3885
+Epoch 18: val_acc = 0.1307, val_loss = 2.3843
+Epoch 19: val_acc = 0.1340, val_loss = 2.3802
+Epoch 20: val_acc = 0.1352, val_loss = 2.3762
+Epoch 21: val_acc = 0.1346, val_loss = 2.3742
+Epoch 22: val_acc = 0.1352, val_loss = 2.3722
+Epoch 23: val_acc = 0.1359, val_loss = 2.3703
+Epoch 24: val_acc = 0.1361, val_loss = 2.3684
+Epoch 25: val_acc = 0.1365, val_loss = 2.3665
+Epoch 26: val_acc = 0.1373, val_loss = 2.3646
+Epoch 27: val_acc = 0.1379, val_loss = 2.3628
+Epoch 28: val_acc = 0.1385, val_loss = 2.3609
+Epoch 29: val_acc = 0.1387, val_loss = 2.3591
+Epoch 30: val_acc = 0.1391, val_loss = 2.3573
+Test Accuracy: 0.1443

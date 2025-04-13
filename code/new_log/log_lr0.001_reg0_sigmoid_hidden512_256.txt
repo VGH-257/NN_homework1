@@ -1,0 +1,33 @@
+[INFO] Training with hyperparameters: {'lr': 0.001, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [512, 256], 'activation': 'sigmoid', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.001_reg0_sigmoid_hidden512_256.npz', 'log_path': 'new_log/log_lr0.001_reg0_sigmoid_hidden512_256.txt'}
+[INFO] Training with hyperparameters: {'lr': 0.001, 'reg': 0.0, 'epochs': 30, 'batch_size': 128, 'hidden': [512, 256], 'activation': 'sigmoid', 'decay_every': 10, 'decay_rate': 0.5, 'output_path': '../ckpt/best_model_lr0.001_reg0_sigmoid_hidden512_256.npz', 'log_path': 'new_log/log_lr0.001_reg0_sigmoid_hidden512_256.txt'}
+Epoch 1: val_acc = 0.1062, val_loss = 2.3434
+Epoch 2: val_acc = 0.1062, val_loss = 2.3416
+Epoch 3: val_acc = 0.1062, val_loss = 2.3400
+Epoch 4: val_acc = 0.1062, val_loss = 2.3383
+Epoch 5: val_acc = 0.1062, val_loss = 2.3368
+Epoch 6: val_acc = 0.1062, val_loss = 2.3353
+Epoch 7: val_acc = 0.1062, val_loss = 2.3339
+Epoch 8: val_acc = 0.1062, val_loss = 2.3326
+Epoch 9: val_acc = 0.1062, val_loss = 2.3313
+Epoch 10: val_acc = 0.1062, val_loss = 2.3300
+Epoch 11: val_acc = 0.1062, val_loss = 2.3294
+Epoch 12: val_acc = 0.1062, val_loss = 2.3288
+Epoch 13: val_acc = 0.1062, val_loss = 2.3282
+Epoch 14: val_acc = 0.1062, val_loss = 2.3277
+Epoch 15: val_acc = 0.1062, val_loss = 2.3271
+Epoch 16: val_acc = 0.1062, val_loss = 2.3266
+Epoch 17: val_acc = 0.1062, val_loss = 2.3260
+Epoch 18: val_acc = 0.1062, val_loss = 2.3255
+Epoch 19: val_acc = 0.1062, val_loss = 2.3250
+Epoch 20: val_acc = 0.1062, val_loss = 2.3245
+Epoch 21: val_acc = 0.1062, val_loss = 2.3243
+Epoch 22: val_acc = 0.1062, val_loss = 2.3240
+Epoch 23: val_acc = 0.1062, val_loss = 2.3238
+Epoch 24: val_acc = 0.1062, val_loss = 2.3235
+Epoch 25: val_acc = 0.1062, val_loss = 2.3233
+Epoch 26: val_acc = 0.1062, val_loss = 2.3231
+Epoch 27: val_acc = 0.1062, val_loss = 2.3228
+Epoch 28: val_acc = 0.1062, val_loss = 2.3226
+Epoch 29: val_acc = 0.1062, val_loss = 2.3224
+Epoch 30: val_acc = 0.1062, val_loss = 2.3221
+Test Accuracy: 0.1044
