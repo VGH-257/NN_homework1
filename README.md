@@ -7,7 +7,6 @@ NN_homework1/
 │
 ├── data/ # path of CIFAR dataset (automatically download using torchvision)
 ├── ckpt/ # path of checkpoint of models
-├── configs/ # configs for simulation and evaluation
 └── code/ 
     ├── new_log/ # path of training logs
     ├── data_loader.py # dataloader
