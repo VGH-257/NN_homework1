@@ -1,0 +1,1 @@
+python train_mlp.py --activation relu --lr 1 --reg 0 --hidden 1024 512
