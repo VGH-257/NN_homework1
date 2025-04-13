@@ -1,0 +1,1 @@
+运行dataloder.py 的load_cifar10后，数据集会自动下载到此路径
