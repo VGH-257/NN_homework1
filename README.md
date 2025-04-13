@@ -19,3 +19,7 @@ NN_homework1/
 ```
 
 ## 训练测试说明
+可调用train_mlp.py 进行训练(train函数)和测试(test函数)，示例command见code/run_train.sh，参数网格搜索见code/grid_search.sh。
+
+## 模型权重
+模型权重可至[link](https://pan.baidu.com/s/12YZk9g53JGJWCJ-rF33YXg?pwd=ad7q)下载。（提取码: ad7q）
